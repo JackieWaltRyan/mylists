@@ -1,0 +1,6 @@
+pymongo
+dnspython
+requests
+beautifulsoup4
+pywebio
+pywebio-battery
