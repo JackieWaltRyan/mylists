@@ -1,4 +1,4 @@
-# myanimelist
+# mylists
 
 A small program I made to catalog and archive the videos I watched.
 
